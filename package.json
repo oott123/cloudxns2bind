@@ -1,5 +1,5 @@
 {
-  "name": "cloudxns2cloudflare",
+  "name": "cloudxns2bind",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,10 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "CC0-1.0",
   "dependencies": {
     "bluebird": "^3.5.0",
-    "cloudflare": "^2.1.1",
     "lodash": "^4.17.4",
     "xml2js": "^0.4.19"
   }
